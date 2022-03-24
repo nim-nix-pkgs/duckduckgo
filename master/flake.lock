@@ -48,42 +48,15 @@
         "nixpkgs": [
           "nixpkgs"
         ],
-        "scraper-master": "scraper-master"
-      },
-      "locked": {
-        "lastModified": 1648108059,
-        "narHash": "sha256-RRS79vuV47hIqJSKRDf5wb0S6tk1T64EuZoPivXGeJ0=",
-        "owner": "nim-nix-pkgs",
-        "repo": "scraper",
-        "rev": "83bc029d5f6b6358db0221c6ea96e1c1b732b899",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "scraper",
-        "type": "github"
-      }
-    },
-    "scraper-master": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "scraper",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "scraper",
-          "nixpkgs"
-        ],
         "src-scraper-master": "src-scraper-master"
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1648108059,
-        "narHash": "sha256-RRS79vuV47hIqJSKRDf5wb0S6tk1T64EuZoPivXGeJ0=",
+        "lastModified": 1648163558,
+        "narHash": "sha256-sZA/J3d2TitgKgVEzoDiFEVU5FFImLFzFfpe/fbe8c0=",
         "owner": "nim-nix-pkgs",
         "repo": "scraper",
-        "rev": "83bc029d5f6b6358db0221c6ea96e1c1b732b899",
+        "rev": "46803eb7ae916c02e0d2da8b8e3328ccca183ced",
         "type": "github"
       },
       "original": {
