@@ -11,6 +11,7 @@
   inputs.src-duckduckgo-master.ref   = "refs/heads/master";
   inputs.src-duckduckgo-master.owner = "lurlo";
   inputs.src-duckduckgo-master.repo  = "duckduckgo";
+  inputs.src-duckduckgo-master.dir   = "";
   inputs.src-duckduckgo-master.type  = "gitlab";
   
   inputs."scraper".owner = "nim-nix-pkgs";
