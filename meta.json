@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://gitlab.com/lurlo/duckduckgo",
   "refs": [
-    "fatal: unable to access 'https://gitlab.com/lurlo/duckduckgo/': OpenSSL SSL_connect: Connection reset by peer in connection to gitlab.com:443 ",
+    "fatal: unable to access 'https://gitlab.com/lurlo/duckduckgo/': SSL connection timeout",
     ""
   ],
   "heads": []
